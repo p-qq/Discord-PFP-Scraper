@@ -1,6 +1,7 @@
 # Discord-PFP-Scraper
 
 Just a scrapper that searches pictures in websites and uploades it to a webhook, great for ppl with pfp servers and are trying to fill em up quick.
+quick heads up it's unstable and sometimes doesn't scrape the whole page, i can easily fix that but i don't got the time for it rn.
 
 # leave the footer as creds yes i am talking to u @skids 🙄
 # Tested Sites
