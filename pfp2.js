@@ -63,7 +63,6 @@ async function main() {
         Spinner.succeed(`Done Scraping ${url}`)
         if (!err && resp.statusCode == 200) {
             const $ = cherio.load(html);
-            try{
               $("img").each((index ,image) => {
                 const img = $(image).attr('src');
                 const Links = img;
@@ -92,10 +91,6 @@ async function main() {
                   
                 }
         );
-            } catch (e) {
-              (e => console.log(`[Error] ${red(e.message)}`))
-          }
-        
         }
         
     });
