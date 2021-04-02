@@ -2,7 +2,7 @@
 
 Just a scrapper that searches pictures in websites and uploades it to a webhook, great for ppl with pfp servers and are trying to fill em up quick.
 
-
+# leave the footer as creds yes i am talking to u @skids 🙄
 # Tested Sites
 ```Nim
 1. [Supported] Pintrest [Gifs Won't Work]
