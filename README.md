@@ -5,9 +5,9 @@ Just a scrapper that searches pictures in websites and uploades it to a webhook,
 # leave the footer as creds yes i am talking to u @skids 🙄
 # Tested Sites
 ```Nim
-1. [Supported] Pintrest [Gifs Won't Work]
-2. [Supported] WeHeartIt [ some what buggy / gifs don't work]
-3. [Not Supported] giphy [link redirects to first pic]
+1. [Supported] Pintrest [Gifs Wont Work]
+2. [Supported] WeHeartIt [ some what buggy / gifs dont work]
+3. '[Not Supported] giphy [link redirects to first pic]'
 4. [Supported] Tenor [works with gifs]
 5. [Supported] davidbaptistechirot.blogspot.com [works great for gifs]
 dm eozri#0070 if u find other websites that support either gif or png/jpg yk 
