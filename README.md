@@ -22,6 +22,12 @@ npm i ora
 ```
 npm i chalk  
 ```
+```
+npm i request  
+```
+```
+npm i enquirer
+```
 # What It Looks Like in action
 ```Nim
 just do node pfp2.js or u can rename it to index.js and make a .bat in the .bat put node .
