@@ -47,7 +47,7 @@ async function main() {
         name: 'url',
         message: `Please give me a url to start scanning`
     })
-    if (!res.url) return Main()
+    if (!res.url) return main()
     const url = res.url;
     let res2 = await prompt({
         type: 'password',
